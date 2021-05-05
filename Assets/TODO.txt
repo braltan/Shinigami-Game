@@ -1,0 +1,5 @@
+Polishing;
+-Sound effects
+-Credits
+
+And of course fix every bug possible.

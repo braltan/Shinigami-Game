@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 187aa6f51e61a3c45badb2915cfa1a85, type: 3}
+  m_Name: Menu Settings
+  m_EditorClassIdentifier: 
+  menuFadeTime: 1
+  sceneChangeFadeColor: {r: 0, g: 0, b: 0, a: 1}
+  nextSceneIndex: 1
+  mainMenuMusicLoop: {fileID: 8300000, guid: 66cc18166736b45d8b240adcbd25f4d5, type: 3}
+  musicLoopToChangeTo: {fileID: 8300000, guid: 5b38d02550cf84c16b09ff086157a273, type: 3}
+  musicLevel1: {fileID: 8300000, guid: f80e38cf10ee7491385cae7910b11272, type: 3}
+  musicLevel2: {fileID: 8300000, guid: 7e900e9beb10c004ea8b7fb3916b026d, type: 3}
+  musicLevel3: {fileID: 8300000, guid: db8d181cf79c840fabcc4ed91506d887, type: 3}
+  musicLevel4: {fileID: 8300000, guid: 34af617e7e08a4e96818da3cb94429b7, type: 3}
+  ascensionEnding: {fileID: 8300000, guid: 2fe1b280dad6849d1bf24db8d0e7d54b, type: 3}
+  descensionEnding: {fileID: 8300000, guid: acb288a52eafd4d818eaf776ebf767a8, type: 3}
